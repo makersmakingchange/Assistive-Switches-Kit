@@ -34,9 +34,8 @@ jobs:
     - name: copy_files
       run: |
         cd InteractSwitch-master/stl
-        git remote origin https://github.com/makersmakingchange/Interact-Switch
-        git fetch
-        git check origin/master -m /Documentation/*BOM.csv
+        git fetch https://github.com/makersmakingchange/Interact-Switch
+        git check origin/main -m /Documentation/*BOM.csv
         git add /Documentation/*BOM.csv
         git status
         git commit -b "Copied BOM csv file from the Interact Swtich repo"
