@@ -34,7 +34,7 @@ jobs:
     - name: copy_files
       run: |
         cd InteractSwitch-master/stl
-        git remote add origin https://github.com/makersmakingchange/Interact-Switch
+        git remote origin https://github.com/makersmakingchange/Interact-Switch
         git fetch
         git check origin/master -m /Documentation/*BOM.csv
         git add /Documentation/*BOM.csv
