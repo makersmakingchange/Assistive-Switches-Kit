@@ -33,7 +33,7 @@ jobs:
       # Copy the files from the Interact Switch repo
     - name: copy_files
       run: |
-        cd InteractSwitch-master/stl
+        cd InteractSwitch-master
         git fetch https://github.com/makersmakingchange/Interact-Switch
         git check origin/main -m /Documentation/*BOM.csv
         git add /Documentation/*BOM.csv
