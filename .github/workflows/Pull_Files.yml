@@ -35,7 +35,7 @@ jobs:
       run: |
         cd InteractSwitch-master
         git fetch https://github.com/makersmakingchange/Interact-Switch
-        git checkout origin/main -m /Documentation/*BOM.csv
+        git checkout origin/main -m Documentation/*BOM.csv
         git add Documentation/*BOM.csv
         git status
         git commit -b "Copied BOM csv file from the Interact Swtich repo"
