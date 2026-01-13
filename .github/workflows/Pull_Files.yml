@@ -39,4 +39,4 @@ jobs:
         git add Documentation/*BOM.csv
         git checkout https://github.com/makersmakingchange/Assistive-Switches-Kit/InteractSwitch-master
         git status
-        git commit -b "Copied BOM csv file from the Interact Swtich repo"
+        git commit -m "Copied BOM csv file from the Interact Swtich repo"
