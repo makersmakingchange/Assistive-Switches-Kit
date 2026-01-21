@@ -1,0 +1,42 @@
+﻿Device:,Light Touch Switch,,,,,,,,,,,,
+Version:,V1.0.0,,,,,,,,,,,,
+Last Updated:,2024-06-26,,,,,,,,,,,,
+,,,,,,,,Total filament (g),,Unit Cost,Total Estimated Cost,Build Cost,
+,,,,,,,,8,, $5.89 , $5.89 ,,
+Maker Guide ID,Commercial Parts,,,,,,,,, $5.69 , $5.69 ,,
+,Part,Description,,Manufacturer,Supplier,QTY / Device,QTY / PKG,PKGs,$/ PKG,$ / Device,Total Estimated Cost,,Link
+A01,Tactile switch,Tactile switch for controlling devices,,Omron,Digikey,1,1,1, $1.02 , $1.02 , $1.02 ,,https://www.digikey.ca/en/products/detail/omron-electronics-inc-emc-div/B3F-5050/368377?s=N4IgTCBcDaIEIGYBiBaArABkyAugXyA 
+A02,3.5 mm mono cable (6 foot length),Cable to connect to an assistive device,,Tensility International Corp,Digikey,1,1,1, $4.67 , $4.67 , $4.67 ,,https://www.digikey.ca/en/products/detail/tensility-international-corp/10-00344/2350247
+,,,,,,,,0,, $-   , $-   ,,
+,,,,,,,,0,, $-   , $-   ,,
+,,,,,,,,0,, $-   , $-   ,,
+,,,,,,,,,,,,,
+,3D Printed Parts,,,,,,,12,, $0.20 , $0.20 ,,
+,Part,Description,Filament Type,Filament,Color,QTY / Device,Mass (g) / Part,Total Mass,$ / kg,$ / Device,Total Estimated Cost,,Link
+A03,LTS_Base_v1.0.stl,Switch base,PLA,,Any,1,3,3, $25.00 , $0.08 , $0.08 ,,
+A04,LTS_Cap_v1.0.stl,Switch top,PLA,,Any,1,4,4, $25.00 , $0.10 , $0.10 ,,
+A05,LTS_Pin_v0.1.stl,Pins for holding base and top together,PLA,,Any,1,1,1, $25.00 , $0.03 , $0.03 ,,
+T06,Switch_Jig_12mm_V1.0.stl,Optional 3D printed jig to hold tactile switch while soldering,PLA,,Any,1,4,4,,,,,
+,,,,,,,,,,,,,
+,Tools,,,,,,,,,,,,
+,Tool,Description,,Manufacturer,Supplier,,,,,,,,Link
+T01,Wire cutter / stripper,,,,,,,,,,,,
+T02,Flush cutter,,,,,,,,,,,,
+T03,Soldering iron,,,,,,,,,,,,
+T04,Hot glue gun,,,,,,,,,,,,
+T05,Needle Nosed Pliers,,,,,,,,,,,,
+T07,Switch Testing Device,,,,,,,,,,,,
+,Alternatives,,,,,,,,,,,,
+,Part,Description,,Manufacturer,Supplier,QTY / Device,QTY / PKG,PKGs,$/ PKG,$ / Device,Total Estimated Cost,,Link
+A01,Tactile switch,Tactile switch for controlling devices,,Omron,Mouser,1,1,1, $0.83 , $0.83 , $0.83 ,,https://www.mouser.ca/ProductDetail/Omron-Electronics/B3F-5050?qs=dOLq8QE0Pqqk%2FO9x2OpTQw%3D%3D
+A02,3.5mm mono cable (six foot length),Cable to connect to assistive devices,,My Cable Mart,My Cable Mart,0.5,1,1, $1.77 , $0.89 , $1.77 ,,https://www.mycablemart.com/store/cart.php?m=product_detail&p=5537
+A02,3.5mm mono cable (six foot length),Cable to connect to assistive devices,,Prime Cables,Prime Cable,0.5,1,1,2.29,1.145,2.29,,https://www.primecables.ca/p-370665-cab-aud-200-all-35mm-18-inch-mono-ts-male-to-male-28awg-ft4-cable-black?from_pla=google&sku=383505&gad_source=1&gclid=EAIaIQobChMIiKKj3875hgMVRkH_AR0ywAr3EAQYASABEgIQYPD_BwE#sku383506
+A02,3.5 mm stereo cable (6 foot length),"Cable to connect to assistive devices. 
+Note: You will need to do extra work to ensure the tip, ring, and sleeve are connected properly.",,Prime Cables,Prime Cables,0.5,1,1, $1.99 , $1.00 , $1.99 ,,https://www.primecables.ca/p-391548-cab-aud-220-06-6ft-35mm-stereo-male-to-male-cable-riser-rated-cl2ft4-black?from_pla=google&sku=417835&gad_source=1&gclid=EAIaIQobChMI3NnAxNP5hgMVJDbUAR08_whLEAQYASABEgKGY_D_BwE#sku417835
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,

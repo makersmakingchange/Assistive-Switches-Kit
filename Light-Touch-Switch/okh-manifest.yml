@@ -1,0 +1,49 @@
+title: Light Touch Switch
+description: The Light Touch Switch is a cost-effective, 3D printable assistive switch for
+  people with physical disabilities.
+intended-use: The Light Touch Switch is intended for use with devices that are controlled
+  with an assistive switch, such as switch adapted toys, communication aids, and
+  computer/tablet access.
+keywords:
+  - 3D printed
+  - assistive switch
+  - assistive technology
+  - open AT
+project-link: https://github.com/makersmakingchange/Light-Touch-Switch
+made: true
+made-independently: false
+license:
+  hardware: CC-BY-NC-SA-4.0
+okh-manifest-version: 1.0.0
+date-created: 2022-05-30
+date-updated: 2024-07-22
+manifest-author:
+  name: Stephan Dobri
+  affiliation: Makers Making Change
+  email: stephand@neilsquire.ca
+manifest-language: en-CA
+contact:
+  social:
+    - platform: Facebook
+      user-handle: makersmakingchange
+    - platform: Instagram
+      user-handle: makersmakingchange
+    - platform: Twitter
+      user-handle: MakerMakeChange
+contributors:
+  - name: David Cross
+version: v1.0
+development-stage: product
+documentation-home: https://github.com/makersmakingchange/Light-Touch-Switch
+documentation-language: en-CA
+making-instructions:
+  - path: https://github.com/makersmakingchange/Light-Touch-Switch/blob/main/Documentation/Light_Touch_Switch_Maker_Guide.pdf
+    title: Light Touch Switch Maker Guide
+operating-instructions:
+  - path: https://github.com/makersmakingchange/Light-Touch-Switch/blob/main/Documentation/Light_Touch_Switch_User_Guide.pdf
+    title: Light Touch Switch User Guide
+maintenance-instructions:
+  - null
+derivative-of:
+  title: XBox adaptive controller low cost/force buttons
+  web: https://www.thingiverse.com/thing:3211154

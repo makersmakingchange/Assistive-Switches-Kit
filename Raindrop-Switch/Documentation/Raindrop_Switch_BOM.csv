@@ -1,0 +1,44 @@
+﻿Device:,Raindrop Switch,,,,,,,,,,,,
+Version:, V1.1,,,,,,,,,,,,
+Last Updated:,2024-06-25,,,,,,,,,,,,
+,,,,,,,,Total filament (g),,Unit Cost,Total Estimated Cost,Build Cost,
+,,,,,,,,6,, $3.53 , $6.01 ,,
+ID,Commercial Parts,,,,,,,,, $3.38 , $5.86 ,,
+,Part,Description,,Manufacturer,Supplier,QTY / Device,QTY / PKG,PKGs,$/ PKG,$ / Device,Total Estimated Cost,,Link
+A01,Press Button,Tactile button,,Omron Electronics,Digikey,1,1,1, $1.04 , $1.04 , $1.04 ,,https://www.digikey.ca/en/products/detail/omron-electronics-inc-emc-div/B3F-5050/368377
+A02,Mono Cable,3.5mm mono cable,,Tensility International Corp,Digikey,1,2,1, $4.67 , $2.34 , $4.67 ,,https://www.digikey.ca/en/products/detail/tensility-international-corp/10-00344/2350247
+,,,,,,,,0, $-   , $-   , $-   ,,
+,,,,,,,,0, $-   , $-   , $-   ,,
+,,,,,,,,0, $-   , $-   , $-   ,,
+,,,,,,,,,,,,,
+,3D Printed Parts,,,,,,,6,, $0.15 , $0.15 ,,
+,Part,Description,Filament Type,Filament,Color,QTY / Device,Mass (g) / Part,Total Mass,$ / kg,$ / Device,Total Estimated Cost,,Link
+A03,Raindrop_Base_v1.2,Base of the switch,PLA,,Any,1,1,1, $25.00 , $0.03 , $0.03 ,,
+A04,Raindrop_Cap_v1.0,Cap of the switch,PLA,,Any,1,1,1, $25.00 , $0.03 , $0.03 ,,
+T06,Switch_Jig_12mm_v1.0,Jig used to help solder to the button,PLA,,Any,1,4,4, $25.00 , $0.10 , $0.10 ,,
+,,,,,,,,0,, $-   , $-   ,,
+,,,,,,,,0,, $-   , $-   ,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,Tools,,,,,,,,,,,,
+,Tool,Description,,Manufacturer,Supplier,,,,,,,,Link
+T01,Flush Cutters,,,,,,,,,,,,
+T02,Soldering Iron,,,,,,,,,,,,
+T03,Hot Glue Gun,,,,,,,,,,,,
+T04,Pliers,,,,,,,,,,,,
+T05,Wire Strippers,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,Alternatives,,,,,,,,,,,,
+,Part,Description,,Manufacturer,Supplier,QTY / Device,QTY / PKG,PKGs,$/ PKG,$ / Device,Total Estimated Cost,,Link
+A01,Press button,Tactile switch for controlling devices,,Omron,Mouser,1,1,1, $0.83 , $0.83 , $0.83 ,,https://www.mouser.ca/ProductDetail/Omron-Electronics/B3F-5050?qs=dOLq8QE0Pqqk%2FO9x2OpTQw%3D%3D
+A02,Mono Cable,Cable to connect to assistive devices,,My Cable Mart,My Cable Mart,0.5,1,1, $1.77 , $0.89 , $1.77 ,,https://www.mycablemart.com/store/cart.php?m=product_detail&p=5537
+,3.5 mm stereo cable (6 foot length),"Cable to connect to assistive devices. 
+Note: You will need to do extra work to ensure the tip, ring, and sleeve are connected properly.",,Prime Cables,Prime Cables,0.5,1,1, $1.99 , $1.00 , $1.99 ,,https://www.primecables.ca/p-391548-cab-aud-220-06-6ft-35mm-stereo-male-to-male-cable-riser-rated-cl2ft4-black?from_pla=google&sku=417835&gad_source=1&gclid=EAIaIQobChMI3NnAxNP5hgMVJDbUAR08_whLEAQYASABEgKGY_D_BwE#sku417835
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
