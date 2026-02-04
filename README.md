@@ -8,10 +8,10 @@ The [Assistive Switches Kit](https://www.makersmakingchange.com/s/product/assist
 
 | Name                 | MMC Library Link | GitHub Repository |                          
 |----------------------|-----------------|---------------------------------------------------------------------------------------------------------------------------------------------|
-| Raindrop Switch      | https://www.makersmakingchange.com/s/product/raindrop-switch/01tJR000000693tYAA |  |
-| Light Touch Switch   | https://www.makersmakingchange.com/s/product/light-touch-switch/01tJR00000068zTYAQ | |
-| Interact Switch      | https://www.makersmakingchange.com/s/product/interact-switch/01tJR000000698vYAA | |
-| MMC60 Switch         | https://makersmakingchange.com/s/product/mmc60-switch/01tJR000000693rYAA |  |
+| Raindrop Switch      | https://www.makersmakingchange.com/s/product/raindrop-switch/01tJR000000693tYAA | https://github.com/makersmakingchange/Raindrop-Switch |
+| Light Touch Switch   | https://www.makersmakingchange.com/s/product/light-touch-switch/01tJR00000068zTYAQ | https://github.com/makersmakingchange/Light-Touch-Switch |
+| Interact Switch      | https://www.makersmakingchange.com/s/product/interact-switch/01tJR000000698vYAA | https://github.com/makersmakingchange/Interact-Switch |
+| MMC60 Switch         | https://makersmakingchange.com/s/product/mmc60-switch/01tJR000000693rYAA | https://github.com/makersmakingchange/MMC60_Assistive_Switch |
 
 ### Raindrop Switch
 Low force switch well-suited for use by a finger or head.
